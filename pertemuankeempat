@@ -1,0 +1,17 @@
+package pertemuankeempat;
+import java.util.Scanner;
+
+public class PertemuanKeempat {
+ public static void main(String[] args) {
+Scanner input = new Scanner (System.in);
+  
+System.out.print("nama saya :");
+String nama = input.nextLine();
+System.out.print("alamat :");
+String alamat = input.nextLine();
+System.out.print("umur :");
+int umur = input.nextInt();
+
+System.out.print("nama saya :"+""+ nama);
+System.out.print("alama "+""+ alamat);
+System.out.print("umur :"+ umur);
