@@ -1,0 +1,11 @@
+package pertemuankeenam;
+public class PertemuanKeenam {
+public static void main(String[] args) {
+
+
+   int nilai = 9;
+   int angka = 15;
+   System.out.println(nilai>angka);    
+    }
+
+}
