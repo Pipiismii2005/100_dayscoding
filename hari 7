@@ -1,0 +1,14 @@
+package pertemuanketujuh;
+import java.util.Scanner;
+public class PertemuanKetujuh {
+
+    public static void main(String[] args) {  
+    Scanner input = new Scanner (System.in);
+    
+        System.out.print("nama :");
+        String nama = input.nextLine();
+        System.out.print("suku :");
+        String suku = input.nextLine();       
+    }
+    
+}
