@@ -1,0 +1,12 @@
+package hari.pkg8;
+public class Hari8 { 
+public static void main(String[] args) {
+    
+    byte umur = 25;
+    byte a = 25;
+    System.out.println(umur >= a );
+    System.out.println("umur sama");
+        
+    }
+    
+}
