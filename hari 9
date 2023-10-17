@@ -1,0 +1,13 @@
+package hari.pkg9;
+public class Hari9 {
+public static void main(String[] args) {
+        
+    char a = 'A';
+    char z = 'Z';
+    
+    System.out.println("A");
+    System.out.println("Z");
+    
+    }
+    
+}
