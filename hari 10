@@ -1,0 +1,11 @@
+package hari.pkg10;
+public class Hari10 {
+public static void main(String[] args) {
+        
+    
+    float tinggi = 152.5f;
+    System.out.println("tinggi badan saya adalah = " + tinggi);
+    
+    }
+    
+}
