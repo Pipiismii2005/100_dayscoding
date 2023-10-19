@@ -1,0 +1,22 @@
+package hari.pkg11;
+public class Hari11 {
+public static void main(String[] args) {
+    
+    
+    String nama, alamat;
+    int usia;
+    double tinggi;
+    
+    nama = "Pipi";
+    alamat = "Mamuju";
+    usia = 18;
+    tinggi = 152.5;
+    
+    System.out.println("Nama: " + nama);
+    System.out.println("Alamat: " + alamat);
+    System.out.println("Usia: " + usia +"Tahun");
+    System.out.println("Tinggi: " + tinggi + "cm");
+    
+    }
+    
+}
