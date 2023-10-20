@@ -1,0 +1,13 @@
+package hari.pkg12;
+public class Hari12 {
+public static void main(String[] args) {
+    
+   byte umur = 25;
+   byte usia = 35;
+   
+    System.out.println(umur >= usia);
+    
+  
+    }
+    
+}
