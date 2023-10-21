@@ -1,0 +1,13 @@
+package hari.pkg13;
+public class Hari13 {
+public static void main(String[] args) {
+
+int angka = 15;
+int nilai = 9;
+
+    System.out.println(angka > nilai);
+    System.out.println(nilai == angka);
+    System.out.println(angka < nilai);
+    }
+    
+}
