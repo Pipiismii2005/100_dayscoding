@@ -1,0 +1,21 @@
+package hari.pkg16;
+
+import java.math.BigDecimal;
+public class Hari16 {
+
+    public static void main(String[] args) {
+        
+        BigDecimal nilai = new BigDecimal("978.6286350298735727163");
+        BigDecimal angka = new BigDecimal("98543.963543728263535132");
+        
+        BigDecimal HasilTambah = nilai.add(angka);
+        BigDecimal HasilKurang = nilai.subtract(angka);
+        BigDecimal HasilKali = nilai.multiply(angka);
+        
+        System.out.println("Nilai tambah\t:"+HasilTambah);
+        System.out.println("Nilai tambah\t:"+HasilKurang);
+        System.out.println("Nilai tambah\t:"+HasilKali);
+        
+    }
+    
+}
