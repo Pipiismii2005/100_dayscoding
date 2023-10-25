@@ -1,0 +1,17 @@
+package hari.pkg17;
+public class Hari17 {
+public static void main(String[] args) {
+    
+     byte myVar1 = 127;
+     System.out.println(myVar1);
+     
+     short myVar2 = 32767;
+     System.out.println(myVar2);
+     
+     int myVar3 = 34589753;
+     System.out.println(myVar3);
+        
+        
+           }
+    
+}
