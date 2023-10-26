@@ -1,0 +1,17 @@
+package hari.pkg18;
+public class Hari18 {
+
+    private static String angkaString;
+    public static void main(String[] args) {
+        
+        int angka = 15;
+        String angkaString = Integer.toString(angka);
+        double angkadouble = 5.1509;
+        String angkaDoubleString = Double.toString(angkadouble);
+        
+        System.out.println("nilai\t:"+angkaString);
+        System.out.println("nilai\t"+angkaDoubleString);
+            
+    }
+    
+}
