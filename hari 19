@@ -1,0 +1,22 @@
+package hari.pkg19;
+public class Hari19 {
+public static void main(String[] args) {
+    
+   //Deklarasi Variabel
+   String nama = "Pipi";
+   double ipk = 3.9999;
+   
+    //Update Variabel
+    int angka = 100;
+    nama = "Pipi";
+    ipk = 3.999;
+    
+    //output
+    System.out.println(angka);
+    System.out.println(nama);
+    System.out.println(ipk);
+    
+    
+    }
+    
+}
