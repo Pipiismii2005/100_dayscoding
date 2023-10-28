@@ -1,0 +1,12 @@
+package hari.pkg20;
+public class Hari20 { 
+public static void main(String[] args) {
+        
+  final int angka = 32;
+  final byte umur = 18;
+    
+    System.out.println("hasil angka" + angka);
+    System.out.println("hasil umur" + umur);
+    }
+    
+}
