@@ -1,0 +1,19 @@
+package day.pkg21;
+import java.util.Scanner;
+
+public class Day21 {
+public static void main(String[] args) {
+
+    Scanner scanner = new Scanner(System.in);
+    System.out.print("Masukkan kata: ");
+    String kata = scanner.next();
+    System.out.print("Masukkan angka: ");
+    int angka = scanner.nextInt();
+    
+    System.out.print("angka yang kamu masukkan: " + kata);
+    System.out.print("kata yang kamu masukkan: " + angka);
+      
+    scanner.close();
+    }
+    
+}
