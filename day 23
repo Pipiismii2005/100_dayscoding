@@ -1,0 +1,28 @@
+package day.pkg23;
+public class Day23 {
+public static void main(String[] args) {
+        
+    byte penjumlahan = 58;
+    penjumlahan += 2;
+    
+    byte pengurangan = 50;
+    pengurangan -= 25;
+    
+    byte perkalian = 20;
+    perkalian *= 2;
+    
+    byte pembagian = 25;
+    pembagian /= 5;
+    
+    byte bagihasil = 35;
+    bagihasil %= 3;
+    
+    System.out.println(penjumlahan);
+    System.out.println(pengurangan);
+    System.out.println(perkalian);
+    System.out.println(pembagian);
+    System.out.println(bagihasil);
+    
+    }
+    
+}
