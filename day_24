@@ -1,0 +1,19 @@
+package day_.pkg24;
+public class Day_24 {
+public static void main(String[] args) {
+    
+    byte nilai1 = 35;
+    byte nilai2 = 35;
+    
+    boolean sama = (nilai1 == nilai2);
+    boolean besar = (nilai1 > nilai2);
+    boolean kecil = (nilai1 < nilai2);
+    
+    System.out.println(sama);
+    System.out.println(besar);
+    System.out.println(kecil);
+    
+        
+    }
+    
+}
