@@ -1,0 +1,15 @@
+package day_26;
+public class Day_26 {
+public static void main(String[] args) {
+    
+    boolean lulus = true;
+    boolean tidaklulus = false;
+    
+    if (lulus == true) {
+       System.out.println("Anda dinyatakan lulus UTBK");
+      
+    }
+       
+    }
+    
+}
