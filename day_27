@@ -1,0 +1,23 @@
+package day_27;
+import java.util.Scanner;
+public class Day_27 {
+ public static void main(String[] args) {
+     
+      //percabangan
+      //cek kelulusan
+      int nilai;    
+      String nama;
+      Scanner scan = new Scanner(System.in);
+      System.out.print("nama: ");
+      nama = scan.nextLine();
+      System.out.print("nilai: ");
+      nilai = scan.nextInt();
+ if (nilai>=75){
+     System.out.print(" Selamat " + nama + ", anda lulus");
+     
+ }else{
+     System.out.print(" Maaf " + nama + ", anda tidak lulus"); 
+ }
+    
+}
+}
