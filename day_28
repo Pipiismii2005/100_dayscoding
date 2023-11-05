@@ -1,0 +1,16 @@
+package pertemuanke28;
+
+public class Pertemuanke28 {
+    
+    public static void main(String[] args) {
+        byte angka  = 3;
+       
+   if (angka>10)  {
+       System.out.println("angka diatas 10");
+       
+   }else if(angka <=10) {
+       System.out.println("angka dibawah 10");
+       
+   }else{
+       System.out.println("angka terserah");
+   }  
