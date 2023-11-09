@@ -1,0 +1,11 @@
+package day_32;
+public class Day_32 {
+public static void main(String[] args) {
+
+        int nomor = 15;
+        for (int i = 15; i >= 1; i--){
+            System.out.println("nomor : " + i);
+        }
+    }
+    
+}
