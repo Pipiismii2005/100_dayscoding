@@ -1,0 +1,22 @@
+package day_33;
+import java.util.Scanner;
+public class Day_33{
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in);
+
+int ganjil,genap;
+    System.out.print("Masukkan angka ganjil :");
+    ganjil = input.nextInt();
+    System.out.print("Masukkan angka genap :");
+    genap = input.nextInt();
+    
+for(ganjil = 1; ganjil <= 10; ganjil -=3){
+    System.out.print(ganjil);
+for(genap = 1; genap <= 110; genap +=2){
+    System.out.print(genap);
+}
+}   
+    }
+        
+    }
+    
