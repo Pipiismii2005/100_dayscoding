@@ -1,0 +1,23 @@
+package day_35;
+public class Day_35 {
+public static void main(String[] args) {
+        
+    //perulangan while
+    int hitung = 1;
+    while(hitung <= 15){
+        System.out.print(hitung);
+        hitung++;
+        
+    }
+    
+    //perulangan do-while
+    byte angka = 5;
+    do{
+        System.out.println(angka);
+        angka++;
+    }while(angka <= 25);
+      }
+    }
+    
+    
+    
