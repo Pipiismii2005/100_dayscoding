@@ -1,0 +1,13 @@
+package day_36.java;
+public class Day_36Java {
+
+    
+    public static void main(String[] args) {
+        String[] teman = {"Miska", "Dzakia", "Amal", "Alif"};
+        for(int i = 0; i < teman.length; i++){
+         System.out.println("Teman ke-"+i+": " + teman[i]);    
+        }
+      
+}
+        
+}
